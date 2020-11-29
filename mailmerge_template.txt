@@ -1,0 +1,11 @@
+TO: {{email}}
+SUBJECT: Testing mailmerge
+FROM: Justin Napolitano <Justin@socialsafetyinitiative.org>
+
+Hi, {{name}},
+
+Your number is {{score}}.
+
+Thanks for testing me. 
+
+Justin
