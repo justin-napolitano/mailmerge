@@ -21,6 +21,13 @@ seoSecondaryKeywords:
   - csv data handling
   - email template
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses on a Python script automating personalized email sending using CSV data and SMTP,
+  fitting well with automation tasks. While it involves scripting and automation of communication
+  workflows, it does not primarily focus on data science, static sites, devtools, or personal
+  topics.
 ---
 
 # mailmerge: Technical Overview and Implementation Notes
@@ -75,3 +82,4 @@ When returning to this project, consider the following:
 - Consider supporting HTML email content and attachments for richer communication.
 
 This project serves as a foundational mail merge utility, illustrating basic concepts of CSV data handling, template-based email generation, and SMTP communication in Python. It requires further development for production readiness but provides a clear starting point for email automation tasks.
+
