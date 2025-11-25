@@ -1,13 +1,13 @@
 ---
 slug: github-mailmerge
-title: Python Mailmerge Script Using CSV and SMTP for Automated Emails
+title: 'Mailmerge: Python-Based Email Automation Overview'
 repo: justin-napolitano/mailmerge
 githubUrl: https://github.com/justin-napolitano/mailmerge
 generatedAt: '2025-11-23T09:16:38.670674Z'
 source: github-auto
 summary: >-
-  Overview of a Python mailmerge utility that reads recipient data from CSV and sends personalized
-  emails via SMTP with basic templating.
+  Explore the mailmerge project, a Python solution for automating personalized
+  email sending using CSV data and SMTP.
 tags:
   - python
   - mailmerge
@@ -15,19 +15,26 @@ tags:
   - csv
   - email-automation
   - templating
-seoPrimaryKeyword: python mailmerge
+  - email automation
+  - smtplib
+  - ssl
+seoPrimaryKeyword: python email automation
 seoSecondaryKeywords:
-  - smtp email sending
-  - csv data handling
-  - email template
+  - mail merge script
+  - automated email sending
+  - CSV email integration
+  - SMTP email delivery
+  - email templating in Python
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses on a Python script automating personalized email sending using CSV data and SMTP,
-  fitting well with automation tasks. While it involves scripting and automation of communication
-  workflows, it does not primarily focus on data science, static sites, devtools, or personal
-  topics.
+  The post focuses on a Python script automating personalized email sending
+  using CSV data and SMTP, fitting well with automation tasks. While it involves
+  scripting and automation of communication workflows, it does not primarily
+  focus on data science, static sites, devtools, or personal topics.
+kind: project
+id: github-mailmerge
 ---
 
 # mailmerge: Technical Overview and Implementation Notes
