@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/mailmerge
 generatedAt: '2025-11-24T21:35:34.058Z'
 source: github-auto
 summary: >-
-  A Python-based mail merge tool that sends personalized emails using CSV data
-  and SMTP, featuring simple configuration and templating.
+  A Python-based mail merge tool that sends personalized emails using CSV data and SMTP, featuring
+  simple configuration and templating.
 tags:
   - python
   - smtp
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - personalized email sending
   - Python email template
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -100,4 +100,5 @@ mailmerge/
 - Support HTML email templates
 - Create a command-line interface for flexibility
 - Secure sensitive information such as passwords
+
 
